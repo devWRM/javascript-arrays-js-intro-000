@@ -9,9 +9,11 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 
 function addElementToBeginningOfArray(sampleArray, sampleElement) {
-
+  var newArray = [sampleElement, ...sampleArray];
+  return newArray
 }
 
 function destructivelyAddElementToBeginningOfArray(sampleArray, sampleElement) {
-
+  sampleArray.push(sampleElement);
+  return sampleArray
 }
