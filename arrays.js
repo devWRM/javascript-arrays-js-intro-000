@@ -46,4 +46,3 @@ function destructivelyRemoveElementFromEndOfArray(sampleArray) {
     sampleArray.pop();
     return sampleArray;
 }
-
