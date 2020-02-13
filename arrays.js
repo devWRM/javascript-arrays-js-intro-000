@@ -18,10 +18,10 @@ function destructivelyAddElementToBeginningOfArray(sampleArray, sampleElement) {
   return sampleArray
 }
 
-function addElementToEndOfArray() {
+function addElementToEndOfArray(sampleArray, sampleElement) {
 
 }
 
-function destructivelyAddElementToEndOfArray() {
+function destructivelyAddElementToEndOfArray(sampleArray, sampleElement) {
 
 }
