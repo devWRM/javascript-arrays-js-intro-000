@@ -41,6 +41,3 @@ function removeElementFromBeginningOfArray(sampleArray) {
   sampleArray.slice();
   return sampleArray;
 }
-
-
-
