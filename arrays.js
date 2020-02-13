@@ -27,3 +27,10 @@ function destructivelyAddElementToEndOfArray(sampleArray, sampleElement) {
   sampleArray.push(sampleElement);
   return sampleArray;
 }
+
+function accessElementInArray(sampleArray, sampleIndex) {
+  return sampleArray[sampleIndex];
+}
+
+
+
