@@ -31,6 +31,3 @@ function destructivelyAddElementToEndOfArray(sampleArray, sampleElement) {
 function accessElementInArray(sampleArray, sampleIndex) {
   return sampleArray[sampleIndex];
 }
-
-
-
