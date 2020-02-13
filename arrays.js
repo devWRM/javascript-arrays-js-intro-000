@@ -14,6 +14,6 @@ function addElementToBeginningOfArray(sampleArray, sampleElement) {
 }
 
 function destructivelyAddElementToBeginningOfArray(sampleArray, sampleElement) {
-  sampleArray.unshift(sampleElement);
+  sampleArray[10] =sampleElement;
   return sampleArray
 }
