@@ -38,6 +38,6 @@ function destructivelyRemoveElementFromBeginningOfArray(sampleArray) {
 }
 
 function removeElementFromBeginningOfArray(sampleArray) {
-  var newArray = sampleArray.slice();
+  var newArray = sampleArray.slice(1);
   return newArray;
 }
