@@ -8,10 +8,10 @@ var ingredient6 = "garlic"
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 
-function addElementToBeginningOfArray() {
-
+function addElementToBeginningOfArray(sampleArray, sampleElement) {
+  
 }
 
-function destructivelyAddElementToBeginningOfArray() {
-
+function destructivelyAddElementToBeginningOfArray(sampleArray, sampleElement) {
+  
 }
