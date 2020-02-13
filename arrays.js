@@ -17,3 +17,13 @@ function destructivelyAddElementToBeginningOfArray(sampleArray, sampleElement) {
   sampleArray.unshift(sampleElement);
   return sampleArray
 }
+
+function addElementToEndOfArray() {
+  
+}
+
+function destructivelyAddElementToEndOfArray() {
+  
+}
+
+
