@@ -19,11 +19,9 @@ function destructivelyAddElementToBeginningOfArray(sampleArray, sampleElement) {
 }
 
 function addElementToEndOfArray() {
-  
+
 }
 
 function destructivelyAddElementToEndOfArray() {
-  
+
 }
-
-
