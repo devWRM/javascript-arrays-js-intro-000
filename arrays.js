@@ -31,3 +31,11 @@ function destructivelyAddElementToEndOfArray(sampleArray, sampleElement) {
 function accessElementInArray(sampleArray, sampleIndex) {
   return sampleArray[sampleIndex];
 }
+
+function destructivelyRemoveElementFromBeginningOfArray(sampleArray) {
+  sampleArray.shift();
+  return sampleArray;
+}
+
+
+
